@@ -11,7 +11,8 @@ use std::collections::VecDeque;
 use std::io::stdin;
 
 fn main() {
-    fifo();
+    // fifo();
+    mpnp();
     // intro();
     // let mut algorithm: String = String::new();
     // stdin().read_line(&mut algorithm).unwrap();
